@@ -1,0 +1,11 @@
+A heavily modified version of twnsnd's foobar ncmpcpp mod: http://twnsnd.deviantart.com/art/foobar-ncmpcpp-mod-289083149
+
+Most colors can be changed from inside the options for the respective panel, but some are system dependant and can't be changed from within the program (probably not a problem).
+
+The following components are used in the theme, and are required to use it:
+Columns UI
+Panel Stack Splitter
+Channel Spectrum Panel
+ELPlaylist
+Lyric Show 3
+WSH Panel Mod
